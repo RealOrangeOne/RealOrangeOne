@@ -4,4 +4,6 @@
 
 :coffee: [Buy me a coffee](https://www.buymeacoffee.com/theorangeone)
 
+:wave: [Contact me](https://theorangeone.net/contact/)
+
 :shipit:
