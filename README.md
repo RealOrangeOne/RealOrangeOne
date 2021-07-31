@@ -4,8 +4,6 @@
 
 :pencil: Notes: [notes.theorangeone.net](https://notes.theorangeone.net/)
 
-:coffee: [Buy me a coffee](https://www.buymeacoffee.com/theorangeone)
-
-:wave: [Contact me](https://theorangeone.net/contact/)
+:wave: Say ["Hi"](https://theorangeone.net/contact/) or ["Thanks"](https://theorangeone.net/support/) !
 
 :shipit:
