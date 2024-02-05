@@ -1,0 +1,31 @@
+name: Execute
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+    - name: Run
+      run: ./build.py
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Build
+        file_pattern: docs/index.html
+        commit_user_name: GitHub Action
+        commit_user_email: actions@github.com
+        commit_author: GitHub Action <actions@github.com>
