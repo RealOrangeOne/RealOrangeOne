@@ -19,9 +19,13 @@ def get_posts() -> list[dict]:
 def main():
     template = jinja2.Template(TEMPLATE_FILE.read_text())
 
-    OUTPUT_FILE.write_text(template.render(
+    new_readme = template.render(
         latest_posts=get_posts()
-    ))
+    )
+
+    print(new_readme)
+
+    OUTPUT_FILE.write_text(new_readme)
 
 if __name__ == "__main__":
     main()
