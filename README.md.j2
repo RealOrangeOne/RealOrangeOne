@@ -11,7 +11,15 @@
 ## Recent posts
 
 {% for post in latest_posts %}
-- [{{ post.title }}]({{ post.full_url }}) ({{ post.date}})
+- [{{ post.title }}]({{ post.full_url }}) ({{ post.date }})
 {%- endfor %}
 
 :globe_with_meridians: View more: [theorangeone.net/posts](https://theorangeone.net/posts/)
+
+## Recent notes
+
+{% for note in recent_notes %}
+- [{{ note.title }}]({{ note.link }}) {% for tag in note.tags %}`{{ tag }}`{% if not loop.last %} {% endif %}{% endfor %} - ({{ note.published }})
+{%- endfor %}
+
+:pencil2: View more: [note.theorangeone.net](https://notes.theorangeone.net/)
