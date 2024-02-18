@@ -22,10 +22,10 @@
 ## Recent notes
 
 
-- [Navigate mkdocs by tag](https://notes.theorangeone.net/notes/mkdocs-nav-by-tag/) `Mkdocs` - (2024-02-17)
-- [Stop saving bash history](https://notes.theorangeone.net/notes/shell/stop-saving-history/) `Shell` - (2022-11-02)
-- [Monitor redis commands](https://notes.theorangeone.net/notes/database/redis-monitor/) `Redis` - (2022-09-30)
-- [Get credentials for an assumed role](https://notes.theorangeone.net/notes/infrastructure/assume-role-credentials/) `AWS` - (2022-09-13)
-- [Downmixing audio channels](https://notes.theorangeone.net/notes/shell/ffmpeg-downmixing-audio/) `Media` - (2021-10-27)
+- [Navigate mkdocs by tag](https://notes.theorangeone.net/notes/mkdocs-nav-by-tag/) `#Mkdocs` - (2024-02-17)
+- [Stop saving bash history](https://notes.theorangeone.net/notes/shell/stop-saving-history/) `#Shell` - (2022-11-02)
+- [Monitor redis commands](https://notes.theorangeone.net/notes/database/redis-monitor/) `#Redis` - (2022-09-30)
+- [Get credentials for an assumed role](https://notes.theorangeone.net/notes/infrastructure/assume-role-credentials/) `#AWS` - (2022-09-13)
+- [Downmixing audio channels](https://notes.theorangeone.net/notes/shell/ffmpeg-downmixing-audio/) `#Media` - (2021-10-27)
 
 :pencil2: View more: [note.theorangeone.net](https://notes.theorangeone.net/)

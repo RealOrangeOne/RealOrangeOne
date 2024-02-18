@@ -19,7 +19,7 @@
 ## Recent notes
 
 {% for note in recent_notes %}
-- [{{ note.title }}]({{ note.link }}) {% for tag in note.tags %}`{{ tag }}`{% if not loop.last %} {% endif %}{% endfor %} - ({{ note.published }})
+- [{{ note.title }}]({{ note.link }}) {% for tag in note.tags %}`#{{ tag }}`{% if not loop.last %} {% endif %}{% endfor %} - ({{ note.published }})
 {%- endfor %}
 
 :pencil2: View more: [note.theorangeone.net](https://notes.theorangeone.net/)
