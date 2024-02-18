@@ -28,4 +28,4 @@
 - [Get credentials for an assumed role](https://notes.theorangeone.net/notes/infrastructure/assume-role-credentials/) `#AWS` - (2022-09-13)
 - [Downmixing audio channels](https://notes.theorangeone.net/notes/shell/ffmpeg-downmixing-audio/) `#Media` - (2021-10-27)
 
-:pencil2: View more: [note.theorangeone.net](https://notes.theorangeone.net/)
+:pencil2: View more: [notes.theorangeone.net](https://notes.theorangeone.net/)
