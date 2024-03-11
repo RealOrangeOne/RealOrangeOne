@@ -22,10 +22,10 @@
 ## Recent notes
 
 
+- [Scheduler-only Heroku apps](https://notes.theorangeone.net/notes/infrastructure/heroku-scheduler-only-apps/) `#Heroku` - (2024-03-11)
 - [Hide short Table of Contents](https://notes.theorangeone.net/notes/mkdocs-conditionally-hide-toc/) `#Mkdocs` - (2024-02-22)
 - [Scaling Heroku's release type](https://notes.theorangeone.net/notes/infrastructure/heroku-release-type/) `#Heroku` - (2024-02-22)
 - [Navigate mkdocs by tag](https://notes.theorangeone.net/notes/mkdocs-nav-by-tag/) `#Mkdocs` - (2024-02-17)
 - [Stop saving bash history](https://notes.theorangeone.net/notes/shell/stop-saving-history/) `#Shell` - (2022-11-02)
-- [Monitor redis commands](https://notes.theorangeone.net/notes/database/redis-monitor/) `#Redis` - (2022-09-30)
 
 :pencil2: View more: [notes.theorangeone.net](https://notes.theorangeone.net/)
