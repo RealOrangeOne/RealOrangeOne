@@ -11,7 +11,7 @@
 ## Recent posts
 
 
-- [CNAME rewriting with AdGuardHome](https://theorangeone.net/posts/adguardhome-cname-rewriting/) (2024-03-12)
+- [Intermediary CNAME rewriting with AdGuardHome](https://theorangeone.net/posts/adguardhome-cname-rewriting/) (2024-03-12)
 - [Turning my website into a browser search engine](https://theorangeone.net/posts/opensearch-browser-search-engine/) (2024-02-22)
 - [Adding blog posts to my GitHub profile](https://theorangeone.net/posts/github-readme-blog-posts/) (2024-02-06)
 - [Exposing Docker's internal DNS with CoreDNS](https://theorangeone.net/posts/expose-docker-internal-dns/) (2024-01-17)
