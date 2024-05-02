@@ -22,10 +22,10 @@
 ## Recent notes
 
 
+- [View wide tables with psql](https://notes.theorangeone.net/notes/database/psql-expanded-display/) `#PostgreSQL` - (2024-05-01)
 - [Optimising GIFs](https://notes.theorangeone.net/notes/gif-optimisation/) `#Images` - (2024-03-12)
 - [Scheduler-only Heroku apps](https://notes.theorangeone.net/notes/infrastructure/heroku-scheduler-only-apps/) `#Heroku` - (2024-03-11)
 - [Hide short Table of Contents](https://notes.theorangeone.net/notes/mkdocs-conditionally-hide-toc/) `#Mkdocs` - (2024-02-22)
 - [Scaling Heroku's release type](https://notes.theorangeone.net/notes/infrastructure/heroku-release-type/) `#Heroku` - (2024-02-22)
-- [Navigate mkdocs by tag](https://notes.theorangeone.net/notes/mkdocs-nav-by-tag/) `#Mkdocs` - (2024-02-17)
 
 :pencil2: View more: [notes.theorangeone.net](https://notes.theorangeone.net/)
