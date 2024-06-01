@@ -11,11 +11,11 @@
 ## Recent posts
 
 
+- [Running Tailscale on a 20 year-old laptop](https://theorangeone.net/posts/tailscale-on-20-year-old-laptop/) (2024-06-01)
 - [Moving my website to Hetzner](https://theorangeone.net/posts/moving-my-website-to-hetzner/) (2024-05-04)
 - [Replacing a Proxmox boot drive](https://theorangeone.net/posts/proxmox-boot-drive-replacement/) (2024-04-18)
 - [Intermediary CNAME rewriting with AdGuardHome](https://theorangeone.net/posts/adguardhome-cname-rewriting/) (2024-03-12)
 - [Turning my website into a browser search engine](https://theorangeone.net/posts/opensearch-browser-search-engine/) (2024-02-22)
-- [Adding blog posts to my GitHub profile](https://theorangeone.net/posts/github-readme-blog-posts/) (2024-02-06)
 
 :globe_with_meridians: View more: [theorangeone.net/posts](https://theorangeone.net/posts/)
 
