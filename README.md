@@ -22,10 +22,10 @@
 ## Recent notes
 
 
+- [Create presigned URLs using AWS CLI](https://notes.theorangeone.net/notes/infrastructure/aws-presigned-urls-cli/) `#AWS` - (2024-10-29)
 - [Using the AWS CLI without installing it](https://notes.theorangeone.net/notes/infrastructure/aws-cli-without-installing/) `#AWS` - (2024-10-28)
 - [Infinite-expiry access tokens on self-hosted GitLab](https://notes.theorangeone.net/notes/gitlab-infinite-expiry-access-tokens/) `#GitLab` - (2024-07-04)
 - [View wide tables with psql](https://notes.theorangeone.net/notes/database/psql-expanded-display/) `#PostgreSQL` - (2024-05-01)
 - [Optimising GIFs](https://notes.theorangeone.net/notes/gif-optimisation/) `#Images` - (2024-03-12)
-- [Scheduler-only Heroku apps](https://notes.theorangeone.net/notes/infrastructure/heroku-scheduler-only-apps/) `#Heroku` - (2024-03-11)
 
 :pencil2: View more: [notes.theorangeone.net](https://notes.theorangeone.net/)
