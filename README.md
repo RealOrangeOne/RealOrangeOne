@@ -11,11 +11,11 @@
 ## Recent posts
 
 
+- [Jake versus 2024](https://theorangeone.net/posts/jake-vs-2024/) (2024-12-26)
 - [Making my TV glow with WLED](https://theorangeone.net/posts/wled-tv-glow/) (2024-12-17)
 - [Self-hosting Bluesky](https://theorangeone.net/posts/self-hosting-bluesky/) (2024-12-04)
 - [Contentless RSS Feeds](https://theorangeone.net/posts/contentless-rss/) (2024-10-05)
 - [Accessing Tailscale whilst using Mullvad](https://theorangeone.net/posts/tailscale-mullvad/) (2024-09-21)
-- [X-Forwarded-For](https://theorangeone.net/posts/x-forwarded-for/) (2024-08-29)
 
 :globe_with_meridians: View more: [theorangeone.net/posts](https://theorangeone.net/posts/)
 
