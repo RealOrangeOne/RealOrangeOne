@@ -11,11 +11,11 @@
 ## Recent posts
 
 
+- [Make your Android phone feel faster with this one neat trick](https://theorangeone.net/posts/android-animations/) (2025-06-11)
+- [Replacing Cloudflare: My domain move](https://theorangeone.net/posts/replacing-cloudflare/) (2025-06-11)
 - [I'm done with Twitter](https://theorangeone.net/posts/im-done-with-twitter/) (2025-04-05)
 - [State of the Server 2025](https://theorangeone.net/posts/state-of-the-server-2025/) (2025-01-01)
 - [Jake versus 2024](https://theorangeone.net/posts/jake-vs-2024/) (2024-12-26)
-- [Making my TV glow with WLED](https://theorangeone.net/posts/wled-tv-glow/) (2024-12-17)
-- [Self-hosting Bluesky](https://theorangeone.net/posts/self-hosting-bluesky/) (2024-12-04)
 
 :globe_with_meridians: View more: [theorangeone.net/posts](https://theorangeone.net/posts/)
 
