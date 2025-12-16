@@ -11,11 +11,11 @@
 ## Recent posts
 
 
+- [Why I returned my Proton subscription](https://theorangeone.net/posts/returned-proton-subscription/) (2025-12-15)
 - [I ran a Half Marathon](https://theorangeone.net/posts/oxford-half-2025/) (2025-10-13)
 - [django.tasks exists](https://theorangeone.net/posts/django-dot-tasks-exists/) (2025-09-17)
 - [Terraforming AdGuardHome](https://theorangeone.net/posts/terraforming-adguardhome/) (2025-09-09)
 - [Deploying a Social Media server](https://theorangeone.net/posts/social-media-server/) (2025-07-09)
-- [Make your Android phone feel faster with this one neat trick](https://theorangeone.net/posts/android-animations/) (2025-06-11)
 
 :globe_with_meridians: View more: [theorangeone.net/posts](https://theorangeone.net/posts/)
 
