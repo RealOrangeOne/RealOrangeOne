@@ -11,11 +11,11 @@
 ## Recent posts
 
 
+- [Extracting directories into their own repositories](https://theorangeone.net/posts/git-directory-extraction/) (2026-02-08)
 - [State of the Server 2026](https://theorangeone.net/posts/state-of-the-server-2026/) (2026-01-01)
 - [Jake versus 2025](https://theorangeone.net/posts/jake-versus-2025/) (2025-12-28)
 - [Why I returned my Proton subscription](https://theorangeone.net/posts/returned-proton-subscription/) (2025-12-15)
 - [I ran a Half Marathon](https://theorangeone.net/posts/oxford-half-2025/) (2025-10-13)
-- [django.tasks exists](https://theorangeone.net/posts/django-dot-tasks-exists/) (2025-09-17)
 
 :globe_with_meridians: View more: [theorangeone.net/posts](https://theorangeone.net/posts/)
 
