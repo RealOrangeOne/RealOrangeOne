@@ -11,11 +11,11 @@
 ## Recent posts
 
 
-- [Torchbox Spring Event 2026 A/V](https://theorangeone.net/posts/tbx-spring-event-2026/) (2026-03-25)
-- [Moving on from Gandi: Registrar and DNS migration](https://theorangeone.net/posts/moving-on-from-gandi/) (2026-03-07)
-- [Extracting directories into their own repositories](https://theorangeone.net/posts/git-directory-extraction/) (2026-02-08)
-- [State of the Server 2026](https://theorangeone.net/posts/state-of-the-server-2026/) (2026-01-01)
-- [Jake versus 2025](https://theorangeone.net/posts/jake-versus-2025/) (2025-12-28)
+- [My not-so-static new static website]() (2026-05-09)
+- [Torchbox Spring Event 2026 A/V]() (2026-03-25)
+- [Wagtail Security team no longer accepts GPG-encrypted emails]() (2026-03-18)
+- [Moving on from Gandi: Registrar and DNS migration]() (2026-03-07)
+- [Extracting directories into their own repositories]() (2026-02-08)
 
 :globe_with_meridians: View more: [theorangeone.net/posts](https://theorangeone.net/posts/)
 
