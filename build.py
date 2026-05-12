@@ -15,9 +15,9 @@ OUTPUT_FILE = PROJECT_DIR / "README.md"
 
 
 def get_posts() -> list[dict]:
-    response = requests.get("https://theorangeone.net/api/latest-posts/?page_size=5&format=json")
+    response = requests.get("https://theorangeone.net/api/latest-posts/?page_size=5")
     response.raise_for_status()
-    return response.json()["results"]
+    return response.json()["items"]
 
 def get_notes() -> list[dict]:
     notes = []
