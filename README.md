@@ -11,11 +11,11 @@
 ## Recent posts
 
 
-- [Process names: The forgotten Observability channel](https://theorangeone.net/posts/process-name-observability/) (2026-07-03)
-- [Firewalling Docker with nftables](https://theorangeone.net/posts/docker-nftables-firewall/) (2026-06-05)
-- [My not-so-static new static website](https://theorangeone.net/posts/not-so-static-website/) (2026-05-09)
-- [Torchbox Spring Event 2026 A/V](https://theorangeone.net/posts/tbx-spring-event-2026/) (2026-03-25)
-- [Moving on from Gandi: Registrar and DNS migration](https://theorangeone.net/posts/moving-on-from-gandi/) (2026-03-07)
+- [Building a Dashboard for my Fridge](https://theorangeone.net/posts/fridge-tablet/) `#Home Assistant` `#Linux` - (2026-09-17)
+- [Process names: The forgotten Observability channel](https://theorangeone.net/posts/process-name-observability/) `#Programming` - (2026-07-03)
+- [Firewalling Docker with nftables](https://theorangeone.net/posts/docker-nftables-firewall/) `#Containers` `#Docker` `#Linux` `#Security` - (2026-06-05)
+- [My not-so-static new static website](https://theorangeone.net/posts/not-so-static-website/) `#Programming` `#Website` - (2026-05-09)
+- [Torchbox Spring Event 2026 A/V](https://theorangeone.net/posts/tbx-spring-event-2026/)  - (2026-03-25)
 
 :globe_with_meridians: View more: [theorangeone.net/posts](https://theorangeone.net/posts/)
 
