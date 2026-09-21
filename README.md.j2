@@ -11,7 +11,7 @@
 ## Recent posts
 
 {% for post in latest_posts %}
-- [{{ post.title }}]({{ post.url }}) ({{ post.date }})
+- [{{ post.title }}]({{ post.url }}) {% for tag in post.tags %}`#{{ tag }}`{% if not loop.last %} {% endif %}{% endfor %} - ({{ post.date }})
 {%- endfor %}
 
 :globe_with_meridians: View more: [theorangeone.net/posts](https://theorangeone.net/posts/)
