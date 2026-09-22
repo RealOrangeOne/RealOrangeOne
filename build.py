@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+# /// script
+# dependencies = [
+#   "jinja2",
+#   "requests",
+#   "feedparser",
+# ]
+# ///
 
 import jinja2
 from pathlib import Path
