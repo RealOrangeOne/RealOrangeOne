@@ -28,7 +28,7 @@ def get_posts() -> list[dict]:
 
 def get_notes() -> list[dict]:
     notes = []
-    for note in feedparser.parse("https://notes.theorangeone.net/feed_rss_created.xml")["entries"]:
+    for note in feedparser.parse("https://notes.theorangeone.net/index.xml")["entries"]:
         notes.append({
             "title": note.title,
             "link": note.link,
