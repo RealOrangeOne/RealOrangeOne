@@ -23,9 +23,9 @@
 
 
 - [Deleting Google Calendar events owned by someone else](https://notes.theorangeone.net/notes/deleting-google-calendar-events/)  - (2026-10-13)
-- [Finding large Prometheus Series](https://notes.theorangeone.net/notes/prometheus-series-hogs/) `#Prometheus` - (2026-06-16)
-- [Fixing author date and signature when rebasing git commits](https://notes.theorangeone.net/notes/git-rebase-fix-author-date/) `#Git` - (2026-02-25)
-- [Enforce TLS for S3](https://notes.theorangeone.net/notes/infrastructure/s3-require-tls/) `#AWS` - (2024-12-10)
-- [Create presigned URLs using AWS CLI](https://notes.theorangeone.net/notes/infrastructure/aws-presigned-urls-cli/) `#AWS` - (2024-10-29)
+- [Finding large Prometheus Series](https://notes.theorangeone.net/notes/prometheus-series-hogs/)  - (2026-06-16)
+- [Fixing author date and signature when rebasing git commits](https://notes.theorangeone.net/notes/git-rebase-fix-author-date/)  - (2026-02-25)
+- [Enforce TLS for S3](https://notes.theorangeone.net/notes/infrastructure/s3-require-tls/)  - (2024-12-10)
+- [Create presigned URLs using AWS CLI](https://notes.theorangeone.net/notes/infrastructure/aws-presigned-urls-cli/)  - (2024-10-29)
 
 :pencil2: View more: [notes.theorangeone.net](https://notes.theorangeone.net/)
